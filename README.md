@@ -11,7 +11,7 @@
 4. **安全计算器**（`exercise_4_calculator.py`）—— try/except 处理 ValueError / ZeroDivisionError
 
 ## 学到的最重要的一课
-（这里你自己写一句话，比如：变量 `name` 和字符串 `"name"` 是两回事——这个坑我踩了 4 次才记住）
+（变量 `name` 和字符串 `"name"` 是两回事——这个坑我踩了 4 次才记住）
 
 ## 下周计划
-继续 CCA-F 备考，开始 W3 任务
+继续 W3 任务
