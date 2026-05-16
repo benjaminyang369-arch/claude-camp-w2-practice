@@ -1,0 +1,4 @@
+todos.json
+scratch_*
+__pycache__/
+*.pyc
