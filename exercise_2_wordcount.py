@@ -15,9 +15,7 @@ words = text.split()
 # 4. 统计每个单词的次数
 counts = {}
 for word in words:
-    # TODO: 如果 word 已经在 counts 里，让它的次数 +1；
     if word in counts:
-    #       否则在 counts 里新增这个 word，次数设为 1
         counts[word] += 1
     else:
         counts[word] = 1
